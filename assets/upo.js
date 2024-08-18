@@ -1177,7 +1177,7 @@ function baken() {
         ] = '5px', _0x1b5a76['style']['cursor'] = 'pointer', _0x1b5a76['style']['border'] = _0xe869b2, _0x1b5a76[
             'style']['filter'] = _0x55c388, _0x1b5a76['style']['display'] = 'flex', _0x1b5a76['style']['alignItems'] =
         'center', _0x1b5a76['style']['justifyContent'] = 'center', _0x1b5a76['onclick'] = function () {
-            window['open']('https://chessassist.net/discord'), _0x1fc887['play']();
+            window['open']('https://discord.com/invite/4p9wvymyWa'), _0x1fc887['play']();
         };
     var _0x460793 = document['createElement']('button');
     _0x460793['innerHTML'] = _0x247855, _0x460793['style']['position'] = 'fixed', _0x460793['style']['zIndex'] =
@@ -1739,7 +1739,7 @@ function baken() {
         _0x146426, _0x1abde3['style']['cursor'] = 'pointer', _0x1abde3['style']['display'] = 'flex', _0x1abde3['style'][
             'justifyContent'
         ] = 'center', _0x1abde3['style']['alignItems'] = 'center', _0x1abde3['onclick'] = function () {
-            window['open']('https://chessassist.net/discord'), _0x1fc887['play']();
+            window['open']('https://discord.com/invite/4p9wvymyWa'), _0x1fc887['play']();
         }, _0x366bdc['style']['opacity'] = -0x8a5 * 0x1 + -0x108a + -0x192f * -0x1, _0x5866af['style']['opacity'] = -
         0x109c * 0x2 + -0x1526 + 0x365e, _0x45cc65['style']['opacity'] = 0x56d * -0x1 + -0xe0e * 0x1 + 0x137b,
         _0x543520['style']['opacity'] = 0x28 + 0x2 * 0x47d + 0xe * -0xa7, _0x3d2efd['style']['opacity'] = -0x2d0 * 0x8 +
